@@ -5,7 +5,7 @@ This very simple tray application wouldn't be possible without awesome work of N
 
 [SoundVolumeCommandLine](https://www.nirsoft.net/utils/sound_volume_command_line.html) console application from NirSoft is needed to control the audio device. Download it and put it inside Resources directory.
 
-[SoundVolumeView](https://www.nirsoft.net/utils/sound_volume_view.html) is the GUI version of SoundVolumeCommandLine. The scripts also provides a link to open it. Download it and put it inside Resources directory. But it is not necessary to use the script.
+_**Optional:**_ [SoundVolumeView](https://www.nirsoft.net/utils/sound_volume_view.html) is the GUI version of SoundVolumeCommandLine. The scripts also provides a link to open it. Download it and put it inside Resources directory. But it is **not necessary** in order to use the script.
 
 To run the script you need to install [AutoHotkey v2](https://www.autohotkey.com/).
 
@@ -23,11 +23,15 @@ To run the script you need to install [AutoHotkey v2](https://www.autohotkey.com
 
 The script is using two main tray menus. 
 
-One of them is simple. It opens with one left click to the tray icon and is bound to the Windows + Alt + S shortcut. This is how it looks:
+One of them is simple. It opens with one left click to the tray icon and is bound to the Windows + Alt + S shortcut.
+
+This is how it looks:
 
 ![dvuQEr.png](https://imgpile.com/images/dvuQEr.png)
 
-The other is a more detailed tray menu. This one will open with a right click to the tray icon and includes various options to control your audio device. This is how it looks:
+The other is a more detailed tray menu. This one will open with a right click to the tray icon and includes various options to control your audio device.
+
+This is how it looks:
 
 ![dvu6Fc.png](https://imgpile.com/images/dvu6Fc.png)
 
